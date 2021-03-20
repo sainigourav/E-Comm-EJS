@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <title>E Commerce V2</title>
+    <link rel="stylesheet" type="text/css" href="css/form_style.css">
+</head>
+<body class="centered">
+    <div class="wrapper container">
+         <h1 class="text-center" id="title"><b>Online Shop</b></h1>
+        <h3 class="title_p">Login</h3>
+        <div id="demoId">
+            <span id="demo"></span>
+        </div>
+        <form onsubmit="return Validator()">
+            <div class="form-group">
+                <label class="title_p">Email</label>
+                <input id="email" type="text" name="email" class="form-control" />
+                <div class="help-block alert-danger"></div>
+            </div>    
+            <div class="form-group">
+                <label class="title_p">Password</label>
+                <input id="pass" type="password" name="password" class="form-control" />
+                <div class="help-block alert-danger"></div>
+            </div>
+            <div class="form-group">
+                <input id="butn" type="submit" class="btn btn-primary" value="Login" />
+            </div>
+            <p class="title_p">Create new account <a class="title_p" style="
+    font-size: 23px;
+" href="signup">Click here!!</a></p>
+        </form>
+    </div>    
+    <script src="./js/login_script.js"></script>
+</body>
+</html>

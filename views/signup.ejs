@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css' /> -->
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <title>E Commerce V2</title>
+    <link rel="stylesheet" type="text/css" href="css/form_style.css">
+</head>
+<body class="centered">
+    <div id="loader-container">
+        <div class="loader"></div>
+            </div>
+    <div class="wrapper container">
+         <h1 class="text-center" id="title"><b>Online Shop</b></h1>
+        <h3 class="title_p">Sign Up</h3>
+        <p class="title_p">Please fill this form to create an account.</p>
+        <div id="demoId">
+            <span id="demo"></span>
+        </div>
+        <div id="passError">
+            <ul id="passUl">
+                <li>At least one digit 0-9</li>
+                <li>At least one lowercase character a-z</li>
+                <li>At least one uppercase character A-Z</li>
+                <li>At least one special character *.!@#$%^&</li>
+                <li>At least 8 characters in length</li>
+            </ul>
+        </div>
+
+        <form id="myForm" method="POST" action="/login"  enctype="multipart/form-data">
+			<div class="form-group">
+                <label class="title_p">Full Name</label>
+                <input id="fullname" type="text" name="fullname" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label class="title_p">Email</label>
+                <input id="email" type="text" name="email" class="form-control" />
+            </div>    
+            <div class="form-group">
+                <label class="title_p">Password</label>
+                <input id="pass" type="password" name="password" class="form-control" />
+
+            </div>
+            <div class="form-group" >
+                <label class="title_p">Confirm Password</label>
+                <input id="cpass" type="password" name="confirm_password" class="form-control" />
+
+            </div>
+            <div class="form-group" >
+                <label class="title_p">Profile Picture</label>
+                <input id="picture" type="file" name="profile_pic" accept="image/*" />
+            </div>
+            <div class="form-group">
+                <input id="submit" type="submit" class="btn btn-primary" value="Submit" />
+                <div style="height: 38px;" id="divprox" class="btn"></div>
+            </div>
+            <p class="title_p">Already have an account? <a class="title_p" style="
+    font-size: 23px;
+" href="/">Click here!!</a></p>
+        </form>
+        <button id="sub-prox" class="btn btn-primary">Submit</button>
+    </div> 
+    <script src="./js/sign_script.js"></script>
+</body>
+</html>

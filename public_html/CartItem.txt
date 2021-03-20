@@ -1,0 +1,72 @@
+[
+    {
+        "id" : "1",
+        "itemName" : "Jeans Jacket",
+        "rupees" : "450",
+        "source" : "./img/1.jpg",
+        "descr" : "A denim jacket, also called a jeans jacket or trucker jacket, is a jacket made from denim. Introduced in the United States in the late 19th century, it has been a popular type of casual apparel with both men and women and has been described as an iconic element of American fashion.A denim jacket, also called a jeans jacket or trucker jacket, is a jacket made from denim. Introduced in the United States in the late 19th century, it has been a popular type of casual apparel with both men and women and has been described as an iconic element of American fashion"
+    },
+    {
+        "id" : "2",
+        "itemName" : "Laptop",
+        "rupees" : "60000",
+        "source" : "./img/2.jpg",
+        "descr" : "A laptop (also laptop computer), is a small, portable personal computer (PC) with a clamshell form factor, typically having a thin LCD or LED computer screen mounted on the inside of the upper lid of the clamshell and an alphanumeric keyboard on the inside of the lower lid. A laptop (also laptop computer), is a small, portable personal computer (PC) with a clamshell form factor, typically having a thin LCD or LED computer screen mounted on the inside of the upper lid of the clamshell and an alphanumeric keyboard on the inside of the lower lid."
+    },
+    {
+        "id" : "3",
+        "itemName" : "Apple 11 pro",
+        "rupees" : "87630",
+        "source" : "./img/3.jpg",
+        "descr" : "The iPhone is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface. The iPhone runs the iOS operating system (OS), and as of 2017, there were 2.2 million apps available for it through the Apple App Store, according to Statista. The iPhone is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface. The iPhone runs the iOS operating system (OS), and as of 2017, there were 2.2 million apps available for it through the Apple App Store, according to Statista."
+    },
+    {
+        "id": "4",
+        "itemName" : "Refrigerator",
+        "rupees" : "18000",
+        "source" : "./img/4.jpg",
+        "descr" : "A refrigerator (colloquially fridge) is a home appliance consisting of a thermally insulated compartment and a heat pump (mechanical, electronic or chemical) that transfers heat from its inside to its external environment so that its inside is cooled to a temperature below the room temperature. A refrigerator (colloquially fridge) is a home appliance consisting of a thermally insulated compartment and a heat pump (mechanical, electronic or chemical) that transfers heat from its inside to its external environment so that its inside is cooled to a temperature below the room temperature."
+    },
+    {
+        "id" : "5",
+        "itemName" : "Trimmer",
+        "rupees" : "1900",
+        "source" : "./img/5.jpg",
+        "descr" : "A beard trimmer is an invaluable tool in a man's grooming kit. A trimmer can clean up that winter beard you've been working on, making it look intentional and respectable. It can also help you get a closer trim that looks nice if you prefer to not be clean-shaven. Using and maintaining your beard trimmer is easy.A beard trimmer is an invaluable tool in a man's grooming kit. A trimmer can clean up that winter beard you've been working on, making it look intentional and respectable. It can also help you get a closer trim that looks nice if you prefer to not be clean-shaven. Using and maintaining your beard trimmer is easy"
+    },
+    {
+        "id" : "6",
+        "itemName" : "Handwash",
+        "rupees" : "220",
+        "source" : "./img/6.jpg",
+        "descr" : "Dettol Original Liquid Hand Wash kills 99.9% of germs. Using it every day protects hands from germs and helps keep them hygienically clean. The pH-balanced formula along with Dettol's trusted germ protection helps your skin feeling healthy and fresh."
+    },
+    {
+        "id" : "7",
+        "itemName" : "Jeans",
+        "rupees" : "650",
+        "source" : "./img/7.jpg",
+        "descr" : "Jeans are a type of pants or trousers, typically made from denim or dungaree cloth. ... Jean also references a (historic) type of sturdy cloth commonly made with a cotton warp and wool weft (also known as Virginia cloth). Jean cloth can be entirely cotton as well, similar to denim."
+    },
+    {
+        "id" : "8",
+        "itemName" : "Optical Specs",
+        "rupees" : "600",
+        "source" : "./img/8.jpg",
+        "descr" : "Glasses, also known as eyeglasses or spectacles, are vision eyewear, consisting of glass or hard plastic lenses mounted in a frame that holds them in front of a person's eyes, typically utilizing a bridge over the nose and hinged arms (known as temples or temple pieces) which rest over the ears. Glasses, also known as eyeglasses or spectacles, are vision eyewear, consisting of glass or hard plastic lenses mounted in a frame that holds them in front of a person's eyes, typically utilizing a bridge over the nose and hinged arms (known as temples or temple pieces) which rest over the ears."
+    },
+    {
+        "id" : "9",
+        "itemName" : "Canon Printer",
+        "rupees" : "30000",
+        "source" : "./img/9.jpg",
+        "descr" : "About Canon Inkjet Printers. ... From single function printers to productive All-In-One printers, PIXMA creates high quality documents and photos, fast. The Wi-Fi®1 models offer easy wireless printing from PCs, smartphones, tablets and desktops. About Canon Inkjet Printers. ... From single function printers to productive All-In-One printers, PIXMA creates high quality documents and photos, fast. The Wi-Fi®1 models offer easy wireless printing from PCs, smartphones, tablets and desktops."
+    },
+    {
+        "id" : "10",
+        "itemName" : "Speaker",
+        "rupees" : "2500",
+        "source" : "./img/10.jpg",
+        "descr" : "A speaker is a term used to describe the user who is giving vocal commands to a software program. ... A computer speaker is an output hardware device that connects to a computer to generate sound. The signal used to produce the sound that comes from a computer speaker is created by the computer's sound card"
+    }
+]
